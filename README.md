@@ -71,6 +71,6 @@ O Django irá rodar o servidor embutido no projeto e rodará no localhost de sua
 * [Gabriel Silva](https://www.linkedin.com/in/bsgabrielsilva/) 
 * [Alexsandra Souza](https://www.linkedin.com/in/alexsandrasouza/)
 
-# Licensa
+# Licença
 
 GPL
