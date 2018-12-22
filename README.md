@@ -65,6 +65,9 @@ $ python manage.py runserver
 
 O Django irá rodar o servidor embutido no projeto e rodará no localhost de sua máquina, se tudo estiver ok, é só acessar a aplicação. =)
 
+# Informaçoes na Mídia
+
+* [Acadêmicos de Licenciatura em Informática desenvolvem aplicativo de combate à corrupção no I Amapá Hackfest](http://macapa.ifap.edu.br/index.php/mais-noticias/580-academicos-de-licenciatura-em-informatica-desenvolvem-aplicativo-de-combate-a-corrupcao-no-i-amapa-hackfest)
 
 # Equipe de Desenvolvimento do BackEnd no Linkedin
 
